@@ -2,13 +2,15 @@
 
 ## 👋 About Me
 
-I am a Data Science graduate student at IBA with a focus on building practical analytics tools, analyzing real-world datasets, and translating insights into actionable outcomes.
+I build data-driven tools and analyze real-world datasets to generate actionable insights.
+
+I am a Data Science graduate student at IBA with a focus on building practical analytics tools, analyzing real-world datasets, and translating insights into decision-driven outcomes.
 
 I am particularly interested in:
 - Dashboard development  
 - Performance analytics  
 - User engagement and behavior analysis  
-- Turning data into clear, decision-driven insights  
+- Turning data into clear, actionable insights  
 
 ---
 
@@ -18,6 +20,8 @@ I am particularly interested in:
 
 ### 🔹 Data Analysis & Cleaning Web Application  
 **Interactive tool for data preprocessing, exploration, and analysis**
+
+<img src="assets/app-dashboard.png" width="700"/>
 
 #### 📌 Problem  
 Working with raw datasets often requires multiple steps — cleaning, transforming, and exploring data before it becomes usable.
@@ -35,12 +39,14 @@ Working with raw datasets often requires multiple steps — cleaning, transformi
 - Makes data exploration accessible through visualizations  
 
 #### 🔗 Links  
-- 🌐 Live App: https://datacleanerzbatsyandyousfi.pythonanywhere.com/
+- 🌐 [Try Live App](https://datacleanerzbatsyandyousfi.pythonanywhere.com/)
 
 ---
 
 ### 🔹 E-commerce Cancellation Analysis (Pakistan COD Market)  
 **Analyzing cancellation behavior to identify key risk drivers**
+
+<img src="assets/ecommerce-insight.png" width="700"/>
 
 #### 📌 Problem  
 High order cancellation rates in cash-on-delivery (COD) markets lead to operational inefficiencies and financial losses.
@@ -55,22 +61,22 @@ High order cancellation rates in cash-on-delivery (COD) markets lead to operatio
   - Time-based patterns  
 - Performed exploratory data analysis to identify trends  
 
-#### 📊 Key Insights  
-- Higher cancellation rates observed above certain price thresholds  
-- Specific product categories showed increased risk  
-- Discount strategies influenced cancellation behavior  
+#### 📊 Key Insight  
+**Higher-value orders showed significantly higher cancellation risk, with clear variation across product categories and discount strategies.**
 
 #### 💡 Recommendations  
 - Introduce confirmation steps for high-value orders  
 - Adjust pricing and discount strategies for high-risk segments  
 
 #### 🔗 Links  
-- 💻 GitHub: https://github.com/Batsy1857/ecommerce-cancellation-analysis/tree/main
+- 💻 [View Project Repository](https://github.com/Batsy1857/ecommerce-cancellation-analysis/tree/main)
 
 ---
 
 ### 🔹 AKDN Learning Engagement Tool  
 **Interactive web-based activity to improve student engagement**
+
+<img src="assets/akdn-quiz.png" width="700"/>
 
 #### 📌 Problem  
 Students often struggle to stay engaged with traditional learning methods.
@@ -80,15 +86,14 @@ Students often struggle to stay engaged with traditional learning methods.
 - Students identify AKDN institution logos and receive real-time feedback  
 - Designed for interactive and engaging learning  
 
-#### 📊 Key Observations  
-- Immediate feedback improved student participation  
-- Interactive format increased engagement levels  
+#### 📊 Key Observation  
+**Real-time feedback and interactivity significantly improved student engagement and participation.**
 
 #### 💡 Takeaway  
 - Data-driven experimentation can improve user engagement and learning outcomes  
 
 #### 🔗 Links  
-- 🌐 Live Tool: https://akdn.pythonanywhere.com/
+- 🌐 [Try Live Tool](https://akdn.pythonanywhere.com/)
 
 ---
 
