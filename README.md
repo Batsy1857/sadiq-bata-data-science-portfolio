@@ -89,7 +89,7 @@ Students often struggle to stay engaged with traditional learning methods.
 - Data-driven experimentation can improve user engagement and learning outcomes  
 
 #### 🔗 Links  
-- 🌐 Live Tool: (https://akdn.pythonanywhere.com/)
+- 🌐 Live Tool: https://akdn.pythonanywhere.com/
 
 ---
 
@@ -106,7 +106,7 @@ I focus on building workflows that make data usable and on communicating finding
 
 ## 🛠️ Skills
 
-**Technical:** Python, SQL, Pandas, NumPy, Plotly, Dash, Excel, PostgreSQL  
+**Technical:** Python, Power BI, SQL, Pandas, NumPy, Plotly, Dash, Excel, PostgreSQL  
 **Analytics:** Data Cleaning, EDA, Feature Engineering, Reporting, Dashboard Development  
 **Tools:** Jupyter Notebook, VS Code, GitHub, pgAdmin  
 
@@ -115,4 +115,3 @@ I focus on building workflows that make data usable and on communicating finding
 ## 📫 Contact
 
 - Email: sadiq.bata@gmail.com  
-- LinkedIn: [ADD LINK HERE]  
