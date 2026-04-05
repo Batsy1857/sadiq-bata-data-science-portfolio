@@ -35,8 +35,7 @@ Working with raw datasets often requires multiple steps — cleaning, transformi
 - Makes data exploration accessible through visualizations  
 
 #### 🔗 Links  
-- 🌐 Live App: [ADD LINK HERE]  
-- 💻 GitHub: [ADD LINK HERE]  
+- 🌐 Live App: https://datacleanerzbatsyandyousfi.pythonanywhere.com/
 
 ---
 
@@ -90,7 +89,7 @@ Students often struggle to stay engaged with traditional learning methods.
 - Data-driven experimentation can improve user engagement and learning outcomes  
 
 #### 🔗 Links  
-- 🌐 Live Tool: [ADD LINK HERE]  
+- 🌐 Live Tool: (https://akdn.pythonanywhere.com/)
 
 ---
 
