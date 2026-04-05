@@ -65,7 +65,7 @@ High order cancellation rates in cash-on-delivery (COD) markets lead to operatio
 - Adjust pricing and discount strategies for high-risk segments  
 
 #### 🔗 Links  
-- 💻 GitHub: [(https://github.com/Batsy1857/ecommerce-cancellation-analysis/tree/main)]  
+- 💻 GitHub: https://github.com/Batsy1857/ecommerce-cancellation-analysis/tree/main
 
 ---
 
