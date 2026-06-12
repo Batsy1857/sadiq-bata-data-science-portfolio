@@ -10,7 +10,6 @@ I am particularly interested in:
 - Dashboard development  
 - Performance analytics  
 - User engagement and behavior analysis  
-- Turning data into clear, actionable insights  
 
 ---
 
